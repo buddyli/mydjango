@@ -1,0 +1,8 @@
+first django project.
+
+setups to upload local code to github repository.
+
+1, create a repository on github.
+2, change to local directory.
+3, git init, git add *, git commit -m 'init', git remote add origin "the reporsitory url of setup 1", git push -u origin master(or others branches).
+4. OK....
